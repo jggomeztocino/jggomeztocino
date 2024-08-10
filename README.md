@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Jesús and Computer Science Engineer Student, graduated from the University of Cádiz.</h2>
+<h2 align="left">Hi 👋! My name is Jesús and I'm a Computer Science Engineer, graduated from the University of Cádiz.</h2>
 <img src="https://u8views.com/api/v1/github/profiles/90068817/views/day-week-month-total-count.svg" href="https://u8views.com/github/jggomeztocino" alt="GitHub stats"/>
 
 ###
