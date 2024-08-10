@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://gitwar.herokuapp.com/badge?username=jggomeztocino)
+![](https://komarev.com/ghpvc/?username=jggomeztocino)
 
 <!--
 **jggomeztocino/jggomeztocino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
