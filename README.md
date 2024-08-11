@@ -12,7 +12,7 @@
 
 <h2 align="left">👋 Thanks for stopping by! <br> My name is Jesús and I'm a Computer Science Engineer 🧑‍💻</h2>  
 <div align = "left">
-  Description...
+  <!-- TO-DO: Add biography, brief introduction.. -->
 </div>
 
 ###
