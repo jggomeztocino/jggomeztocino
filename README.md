@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="https://tenor.com/es/view/hello-there-hi-there-greetings-gif-9442662" alt="Hello There GIF" />
-</div>
+<div class="tenor-gif-embed" data-postid="9442662" data-share-method="host" data-aspect-ratio="2" data-width="100%"><a href="https://tenor.com/view/hello-there-hi-there-greetings-gif-9442662">Hello There Hi There GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <h2 align="left">Hello there 👋! My name is Jesús and I'm a Computer Science Engineer, graduated from the University of Cádiz.</h2>
 <img src="https://u8views.com/api/v1/github/profiles/90068817/views/day-week-month-total-count.svg" href="https://u8views.com/github/jggomeztocino" alt="GitHub stats"/>
