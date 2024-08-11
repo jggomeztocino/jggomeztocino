@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-  <img src="https://c.tenor.com/6us3et_6HDoAAAAC/tenor.gif" alt="Hi There GIF" style="width: 100%;" />
+  <img src="https://c.tenor.com/6us3et_6HDoAAAAC/tenor.gif" alt="Hi There GIF" width="1000" />
 </div>
 
 ###
