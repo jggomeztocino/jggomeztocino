@@ -20,7 +20,7 @@
 
 ###
 
-<h2 align="left">My stats</h2>
+<h2 align="left">📊 My Stats</h2>
 <div>
   <img src="https://raw.githubusercontent.com/jggomeztocino/github-stats-transparent/output/generated/overview.svg" alt="stats"/>
   <img src="https://raw.githubusercontent.com/jggomeztocino/github-stats-transparent/output/generated/languages.svg" alt="languages graph"/>
@@ -32,7 +32,7 @@
 
 ###
 
-<h2 align="left">Technologies</h2>
+<h2 align="left">💻 Technologies I've Worked With and Enjoy</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" width="52" alt="android logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="52" alt="aws logo"  />
@@ -101,7 +101,7 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">🌐 Let's connect on Social Media</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/jggomeztocino/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -110,4 +110,7 @@
 
 ###
 
-<h2 align = "left">Check out some of my top projects!</h2>
+<h2 align="left">✨ Explore My Top Projects! </h2>
+<div>
+  👇
+</div>
