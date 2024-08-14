@@ -18,8 +18,9 @@
 ###
 
 <h2 align="left">My stats</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=jggomeztocino" alt="languages graph"/>
+<div>
+  <img src="https://raw.githubusercontent.com/jggomeztocino/github-stats-transparent/output/generated/overview.svg" alt="stats"/>
+  <img src="https://raw.githubusercontent.com/jggomeztocino/github-stats-transparent/output/generated/languages.svg" alt="languages graph"/>
 </div>
 
 ###
