@@ -13,6 +13,9 @@
 <h2 align="left">👋 Thanks for stopping by! <br> My name is Jesús and I'm a Computer Science Engineer 🧑‍💻</h2>  
 <div align = "left">
   <!-- TO-DO: Add biography, brief introduction.. -->
+  I'm a passionate Computer Science Engineer with a love for technology, especially programming. 
+  I'm always on the lookout for opportunities to learn, grow, and connect with others in the tech world. 
+  Whether it's a new challenge or a chance to collaborate, I'm excited to see where my skills can take me!
 </div>
 
 ###
@@ -21,6 +24,10 @@
 <div>
   <img src="https://raw.githubusercontent.com/jggomeztocino/github-stats-transparent/output/generated/overview.svg" alt="stats"/>
   <img src="https://raw.githubusercontent.com/jggomeztocino/github-stats-transparent/output/generated/languages.svg" alt="languages graph"/>
+</div>
+
+<div>
+  <img src="https://raw.githubusercontent.com/jggomeztocino/jggomeztocino/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
 </div>
 
 ###
@@ -103,7 +110,4 @@
 
 ###
 
-<h2 align = "left">Activity</h2>
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<h2 align = "left">Check out some of my top projects!</h2>
