@@ -4,12 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDN1NDdrMWM1OWQ2NmgweGhudnc1aHlhdWh1OHFmNWU0MDQ4M281byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" alt="Hi There GIF" width="570" />
-</div>
-
-###
-
 <h2 align="left">👋 Thanks for stopping by! <br> My name is Jesús and I'm a Computer Science Engineer 🧑‍💻</h2>  
 <div align = "left">
   <!-- TO-DO: Add biography, brief introduction.. -->
