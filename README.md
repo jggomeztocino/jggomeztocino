@@ -1,17 +1,18 @@
 <h1 align="left">Hi, I'm Jesús 👋</h1>
 
-**Backend Software Engineer** at [SNGULAR](https://www.sngular.com), currently building event-driven microservices for Inditex. Based in Cádiz, Spain.
+**Backend Software Engineer** at [SNGULAR](https://www.sngular.com), working for Inditex. Based in Cádiz, Spain.
 
-I care about software that stays easy to change: a clear domain model, explicit boundaries and tests that make refactoring safe.
+**What I do**
 
-- 🧭 **Domain-Driven Design**: modelling around the business domain, with bounded contexts and a language shared with the people who own the problem.
-- 🧱 **Hexagonal & Clean Architecture**: the domain stays independent of frameworks and infrastructure; adapters are replaceable details.
-- ✨ **SOLID & Clean Code**: small, intention-revealing units and continuous refactoring.
-- 📨 **Event-driven & contract-first design**: asynchronous integration between services, APIs and events defined as contracts first, and command/query separation where it pays off.
-- 🧪 **Testing as a design tool**: about two thirds of the code I write is tests, from fast unit tests to integration against real dependencies and API acceptance tests.
-- 🔍 **Code review as knowledge sharing**: 250+ reviews over the last two years.
-- 🚀 **Delivery**: deployment and rollout strategies on Kubernetes / OpenShift, automated pipelines and quality gates.
-- 🏠 **Outside work**: full-stack side projects and a self-hosted homelab managed as code, rebuildable from a git checkout.
+- 🛠️ Design and build backend services and APIs that other teams and systems rely on, from the first contract to production.
+- 📨 Connect systems through events, so services can evolve and scale independently.
+- 🧰 Build internal tooling that automates repetitive engineering work for my team.
+- 🧪 Keep those services reliable with extensive automated testing: about two thirds of the code I write is tests.
+- 🔍 Review my teammates' code (250+ reviews over the last two years) and help keep the codebase consistent.
+- 🚀 Take changes to production: deployment and rollout strategies on Kubernetes / OpenShift, pipelines and quality gates.
+- 🏠 Outside work, I build full-stack side projects and run a self-hosted homelab managed as code.
+
+**How I work:** Domain-Driven Design, Hexagonal & Clean Architecture, SOLID and Clean Code.
 
 <h2 align="left">🛠️ Tech stack</h2>
 
