@@ -5,6 +5,7 @@
 - ☕ Java & Spring Boot services, wired together with Kafka + Avro / Schema Registry and described with OpenAPI / AsyncAPI.
 - 🧱 Hexagonal architecture, DDD-style layering and API-first contracts.
 - 🧪 Test-heavy by habit: about two thirds of the code I write is tests (JUnit 5, Testcontainers, Karate / Cucumber).
+- 🚀 Shipping to Kubernetes / OpenShift on Azure: deployment and rollout strategies, with quality gates in SonarQube Cloud (SonarCloud).
 - 🔍 Active reviewer: 250+ code reviews over the last two years.
 - 🏠 Outside work: full-stack side projects (React / Next.js + Spring Boot 4 on Java 25) and a self-hosted homelab managed as code (Docker, Ansible, Prometheus / Grafana / Loki).
 
@@ -50,7 +51,12 @@ Testcontainers · Karate · AssertJ
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible" title="Ansible" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="Prometheus" title="Prometheus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="Grafana" title="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="40" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" title="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" height="40" alt="SonarQube Cloud" title="SonarQube Cloud" />
 </p>
+
+OpenShift
 
 <h2 align="left">📊 GitHub stats</h2>
 <p align="left">
