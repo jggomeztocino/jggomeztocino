@@ -7,8 +7,7 @@
 - 🛠️ Design and build backend services and APIs that other teams and systems rely on, from the first contract to production.
 - 📨 Connect systems through events, so services can evolve and scale independently.
 - 🧰 Build internal tooling that automates repetitive engineering work for my team.
-- 🧪 Keep those services reliable with extensive automated testing: about two thirds of the code I write is tests.
-- 🔍 Review my teammates' code (250+ reviews over the last two years) and help keep the codebase consistent.
+- 🧪 Keep those services reliable with extensive automated testing.
 - 🚀 Take changes to production: deployment and rollout strategies on Kubernetes / OpenShift, pipelines and quality gates.
 - 🏠 Outside work, I build full-stack side projects and run a self-hosted homelab managed as code.
 
