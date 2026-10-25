@@ -1,13 +1,17 @@
 <h1 align="left">Hi, I'm Jesús 👋</h1>
 
-**Backend Software Engineer** at [SNGULAR](https://www.sngular.com), currently building event-driven Java microservices for Inditex. Based in Cádiz, Spain.
+**Backend Software Engineer** at [SNGULAR](https://www.sngular.com), currently building event-driven microservices for Inditex. Based in Cádiz, Spain.
 
-- ☕ Java & Spring Boot services, wired together with Kafka + Avro / Schema Registry and described with OpenAPI / AsyncAPI.
-- 🧱 Hexagonal architecture, DDD-style layering and API-first contracts.
-- 🧪 Test-heavy by habit: about two thirds of the code I write is tests (JUnit 5, Testcontainers, Karate / Cucumber).
-- 🚀 Shipping to Kubernetes / OpenShift on Azure: deployment and rollout strategies, with quality gates in SonarQube Cloud (SonarCloud).
-- 🔍 Active reviewer: 250+ code reviews over the last two years.
-- 🏠 Outside work: full-stack side projects (React / Next.js + Spring Boot 4 on Java 25) and a self-hosted homelab managed as code (Docker, Ansible, Prometheus / Grafana / Loki).
+I care about software that stays easy to change: a clear domain model, explicit boundaries and tests that make refactoring safe.
+
+- 🧭 **Domain-Driven Design**: modelling around the business domain, with bounded contexts and a language shared with the people who own the problem.
+- 🧱 **Hexagonal & Clean Architecture**: the domain stays independent of frameworks and infrastructure; adapters are replaceable details.
+- ✨ **SOLID & Clean Code**: small, intention-revealing units and continuous refactoring.
+- 📨 **Event-driven & contract-first design**: asynchronous integration between services, APIs and events defined as contracts first, and command/query separation where it pays off.
+- 🧪 **Testing as a design tool**: about two thirds of the code I write is tests, from fast unit tests to integration against real dependencies and API acceptance tests.
+- 🔍 **Code review as knowledge sharing**: 250+ reviews over the last two years.
+- 🚀 **Delivery**: deployment and rollout strategies on Kubernetes / OpenShift, automated pipelines and quality gates.
+- 🏠 **Outside work**: full-stack side projects and a self-hosted homelab managed as code, rebuildable from a git checkout.
 
 <h2 align="left">🛠️ Tech stack</h2>
 
@@ -24,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="40" alt="Gradle" title="Gradle" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openapi/openapi-original.svg" height="40" alt="OpenAPI" title="OpenAPI" />
 </p>
+
+Avro · Schema Registry · AsyncAPI
 
 **Testing** <br>
 <p align="left">
