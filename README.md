@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Jesús 👋</h1>
 
-**Backend Software Engineer** at [SNGULAR](https://www.sngular.com), working for Inditex. Based in Cádiz, Spain.
+**Backend Software Engineer** at [SNGULAR](https://www.sngular.com), working for [Inditex](https://www.inditex.com). Based in Cádiz, Spain.
 
 **What I do**
 
